@@ -1,0 +1,5 @@
+#like{
+    background-color: rgb(118, 209, 241);
+    color: rgb(3, 9, 71);
+    document.getElementById("#like").style.color(green);
+}
